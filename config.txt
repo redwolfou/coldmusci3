@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
-game=
+token=NTMyOTkwODE3NzcwNTM3MDAw.Dxs-AQ.sVQ-JyK-Cc_mPJGcXkh1pZoXEGQ
+owner=507997411101114379
+prefix=3
+game=Cold|3play 
 stayinchannel=true
 songinstatus=false
