@@ -1,6 +1,6 @@
-token=NTMyOTkwODE3NzcwNTM3MDAw.Dxs-AQ.sVQ-JyK-Cc_mPJGcXkh1pZoXEGQ
+token=NTI5NjMwNjIwOTU2MjI5NjMy.D1tMcA.l984_kbQR29UJajAw-6JWxmtjEo
 owner=507997411101114379
 prefix=3
-game=Cold|3play 
+game=Present | 3play 
 stayinchannel=true
 songinstatus=false
